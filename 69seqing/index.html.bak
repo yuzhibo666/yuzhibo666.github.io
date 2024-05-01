@@ -14,8 +14,9 @@
 
  <body>
 
-  <img src="1.jpg" width="1000" height="1000">
-
+element {
+  background-image: url('1.jpg');
+}
  </body>
 
 </html>
