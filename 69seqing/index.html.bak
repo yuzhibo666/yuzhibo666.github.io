@@ -14,7 +14,7 @@
 
  <body>
 
-  <img src="1.jpg">
+  <img src="1.jpg" width="1000" height="1000">
 
  </body>
 
