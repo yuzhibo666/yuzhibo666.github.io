@@ -1,0 +1,93 @@
+{
+  "data": {
+    "thirdSourceConfigList": [
+      {
+        "id": 137, 
+        "source": "zhikePad", 
+        "thirdName": "浦东人工智能", 
+        "loginUrl": "https://loginproxy.jyyun.com/login-proxy-shanghai/loginProxy/v1/pdai?id=ai", 
+        "dataSystemFlag": "pd-ai", 
+        "loginSystemFlag": "0", 
+        "appLoginUrl": ""
+      }, 
+      {
+        "id": 19, 
+        "source": "zhikePad", 
+        "thirdName": "北京一零一中智课学生端", 
+        "loginUrl": "https://loginproxy.jyyun.com/login-proxy-beijing/proxy/third/login/app?thirdSourceId=3", 
+        "dataSystemFlag": "bj101", 
+        "loginSystemFlag": "bj101ZhikePad", 
+        "appLoginUrl": "/loginProxy/v1?systemFlag=bj101ZhikePad&token="
+      }
+    ], 
+    "thirdSourceWhiteUrlList": [
+      {
+        "id": 1, 
+        "urlName": "浦东", 
+        "url": "https://id.pdedu.sh.cn"
+      }, 
+      {
+        "id": 2, 
+        "urlName": "登入代理-测试", 
+        "url": "http://app.szjyy.demo.changyan.cn"
+      }, 
+      {
+        "id": 3, 
+        "urlName": "登入代理-生产", 
+        "url": "http://loginproxy.jyyun.com/"
+      }, 
+      {
+        "id": 4, 
+        "urlName": "测试地址", 
+        "url": "http://172.31.100.130"
+      }, 
+      {
+        "id": 5, 
+        "urlName": "建平中学", 
+        "url": "http://jpyun.pdedu.sh.cn"
+      }, 
+      {
+        "id": 7, 
+        "urlName": "登录代理-生产-https", 
+        "url": "https://loginproxy.jyyun.com"
+      }, 
+      {
+        "id": 8, 
+        "urlName": "上海建平中学", 
+        "url": "http://shjpzx.changyan.cn"
+      }, 
+      {
+        "id": 9, 
+        "urlName": "江西上饶高铁新城-测试", 
+        "url": "http://114.116.238.185:8002"
+      }, 
+      {
+        "id": 10, 
+        "urlName": "江西上饶高铁新城-三方H5生产", 
+        "url": "https://sso.yuexunedu.com"
+      }, 
+      {
+        "id": 11, 
+        "urlName": "江西上饶高铁新城-代理登录生产", 
+        "url": "http://220.176.196.60:8888"
+      }, 
+      {
+        "id": 13, 
+        "urlName": "三个助手审查回调地址", 
+        "url": "https://rz.szjx.ai-study.net/auth/proxy?clientId=nlloXnrA4f0sWYDmOT"
+      }, 
+      {
+        "id": 15, 
+        "urlName": "三个助手生产认证地址", 
+        "url": "https://cas2.edu.sh.cn/CAS/login?service=https%3A%2F%2Fcas2.edu.sh.cn%2FCAS%2Foauth2.0%2FcallbackAuthorize"
+      }, 
+      {
+        "id": 17, 
+        "urlName": "三个助手生产退出地址", 
+        "url": "https://operator-api.sh-genius.cn/ucenter/auth/logout2"
+      }
+    ]
+  }, 
+  "code": "success", 
+  "message": "调用成功"
+}
